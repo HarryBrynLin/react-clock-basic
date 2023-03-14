@@ -8,6 +8,6 @@ spec:
     app: react-clock-basic
   ports:
   - protocol: TCP
-    port: 81
+    port: 8181
     targetPort: 8080
 
